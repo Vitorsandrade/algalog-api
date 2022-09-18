@@ -1,4 +1,4 @@
-package com.algaworks.vitor.models;
+package com.algaworks.vitor.domain.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

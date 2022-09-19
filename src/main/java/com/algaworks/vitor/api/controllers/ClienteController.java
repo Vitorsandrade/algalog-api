@@ -1,4 +1,4 @@
-package com.algaworks.vitor.controllers;
+package com.algaworks.vitor.api.controllers;
 
 import java.util.List;
 
